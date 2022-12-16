@@ -1,0 +1,16 @@
+.shoppart{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    padding: 60px;
+}
+
+.shop{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+   
+}
+.cardcontainer
+{
+    background-color: bisque;
+}
